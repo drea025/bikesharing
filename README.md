@@ -8,3 +8,5 @@ We are anticipating that people intrested are looking for the average duration o
 
 ### Conclusion
 From the assesments we can conclude that users are not all tourist but also locals. Some commuters and mostly men. It is important to analyze these trends in order to find ways to attract other populations and keep those already invested, commeted to the servicce being provided. By looking at bike trends in De Moines and Iowa, we can gather further intel that would be useful when establishing bike sharing in New York with is a larger city. 
+
+https://www.tableau.com/my-account work in progress
